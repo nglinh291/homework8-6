@@ -1,0 +1,83 @@
+.detail1{
+    width: 400px;
+    margin-left: 427px;
+    vertical-align: middle;
+    background-color: white;
+    color: rgb(161, 49, 87);
+}
+.title1{
+    background-color: rgb(161, 49, 87);
+    color: white;
+    width: 400px;
+    margin-left: 427px;
+    vertical-align: middle;
+}
+
+.detail2{
+    width: 400px;
+    margin-left: 427px;
+    vertical-align: middle;
+    background-color: white;
+    color: rgb(161, 49, 87);
+}
+.title2{
+    background-color: rgb(161, 49, 87);
+    color: white;
+    width: 400px;
+    margin-left: 427px;
+    vertical-align: middle;
+}
+
+.detail3{
+    width: 400px;
+    margin-left: 427px;
+    vertical-align: middle;
+    background-color: white;
+    color: rgb(161, 49, 87);
+}
+.title3{
+    background-color: rgb(161, 49, 87);
+    color: white;
+    width: 400px;
+    margin-left: 427px;
+    vertical-align: middle;
+}
+
+.detail4{
+    width: 400px;
+    margin-left: 427px;
+    vertical-align: middle;
+    background-color: white;
+    color: rgb(161, 49, 87);
+}
+.title4{
+    background-color: rgb(161, 49, 87);
+    color: white;
+    width: 400px;
+    margin-left: 427px;
+    vertical-align: middle;
+}
+
+h2:active{
+    background-color: rgb(12, 97, 97);
+}
+
+/* Câu 2 */
+.cau2{
+    background-color:rgb(147, 163, 233);
+    height: 30px;
+    width: 100%;
+}
+.cau2:hover{
+    background-color: rgb(247, 193, 233);
+}
+
+/* Clock */
+.time{
+    background-color: rgb(161, 49, 87);
+    color: white;
+    width: 200px;
+    height: 50px;
+    margin-left: 530px;
+    font-size: 40px;
+}
